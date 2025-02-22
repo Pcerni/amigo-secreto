@@ -2,7 +2,7 @@
 let nombres = [];
 
 //Funcion que agrega amigos
-function agregaAmigos() {
+function agregarAmigos() {
     let obtenerNombres = document.getElementById("amigo");
     console.log(obtenerNombres);
 }
