@@ -1,1 +1,8 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
+//Array para almacenar nombres
+let nombres = [];
+
+//Funcion que agrega amigos
+function agregaAmigos() {
+    let obtenerNombres = document.getElementById("amigo");
+    console.log(obtenerNombres);
+}
