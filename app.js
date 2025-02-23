@@ -51,8 +51,8 @@ function sortearAmigo() {
             //Limpia la pantalla
             setTimeout(() => {
                 resultado.innerHTML = "";
-            }, 2000);
-            document.getElementById("botonSortear").removeAttribute("disabled");
+                document.getElementById("botonSortear").removeAttribute("disabled");
+            }, 1000);
         }, 3000);
     }
     
