@@ -19,6 +19,7 @@ Este código se basa en las competencias exigidas en el dashboard de Trello, el 
   <li>Una función que sortee un amigo al azar.</li>
   </ul>
 Además, le agregué como característica extra a la función de sortear amigos que luego de terminar el juego, el botón de "Sortear" se deshabilite y se reinicie el juego luego de un par de segundos.
+  <p align="center"><img alt="Funcionalidad" src="https://gcdnb.pbrd.co/images/xRh1A3gLbT5K.gif?o=1"></p>
 </li>
 </ul>
 
